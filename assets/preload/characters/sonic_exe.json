@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				113
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic exe idle"
+		},
+		{
+			"offsets": [
+				51,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic exe left"
+		},
+		{
+			"offsets": [
+				-35,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic exe down"
+		},
+		{
+			"offsets": [
+				-76,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic exe up"
+		},
+		{
+			"offsets": [
+				-77,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic exe right"
+		},
+		{
+			"offsets": [
+				0,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singjijijija",
+			"indices": [],
+			"name": "Sonic exe jijijija"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				112
+			],
+			"anim": "Animation",
+			"fps": 23,
+			"name": "Sonic exe animation",
+			"indices": []
+		},
+		{
+			"offsets": [
+				19,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Sonic exe pa la izquierda"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_exe_assets",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "sonic-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		15,
+		205
+	],
+	"camera_position": [
+		-100,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
